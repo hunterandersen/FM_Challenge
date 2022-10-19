@@ -1,0 +1,12 @@
+* {
+    font-family: 'Red Hat Display', sans-serif;
+    --color-blue-dark : hsl(223, 47%, 23%);
+    --color-blue-desaturated : hsl(224, 23%, 55%);
+    --color-blue-veryPale : hsl(225, 100%, 98%);
+    --color-blue-pale : hsl(225, 100%, 94%);
+    --color-blue-bright : hsl(245, 75%, 52%);
+}
+
+h1 {
+    color: var(--color-blue-dark);
+}
